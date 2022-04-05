@@ -1,5 +1,9 @@
 # Welcome to HackForTheGlobe's repository 👋
 
+<p align="center">
+ <img src="https://github.com/hackfortheglobe/.github/blob/8d65fb0df07800ad5fdcf625ca53ab91d73c7b81/IMG_20220405_130650.jpg" width="50%">
+</p>
+
 ## Who we are?
 We are an open team of data scientists and computer programmers with a vision to democratize data. We have a deep passion for technology, data, and people.
 
